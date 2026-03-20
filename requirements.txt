@@ -1,0 +1,4 @@
+modelcontextprotocol>=1.0.0
+mcp>=1.2.0
+pymongo>=4.16.0
+dnspython>=2.8.0
